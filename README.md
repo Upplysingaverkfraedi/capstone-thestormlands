@@ -12,7 +12,7 @@ Downloadið eftirfarandi skrám og opnið í PowerBI desktop (Mögulega hægt a�
 
 
 
-
+# Upplýsingar um regex
 Í þessu verkefni er verið að ná í upplýsingar um bjór verð út úr versýðunni vínbúðin.is
 
 Þessi kóði,
