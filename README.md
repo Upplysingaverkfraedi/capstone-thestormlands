@@ -7,8 +7,8 @@ python REGEX_Vinbudin_kodi2.py --output_dir ./data --debug
 
 ##  Mælaborð:
 Downloadið eftirfarandi skrám og opnið í PowerBI desktop (Mögulega hægt að opna á vefútgáfu)
-        - Bjórkort.pbix
-        - Hjól_Winrate.pbix
+- Bjórkort.pbix
+- Hjól_Winrate.pbix
 
 
 
